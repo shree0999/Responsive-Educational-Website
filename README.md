@@ -6,8 +6,7 @@ The project focuses on clean UI, structured layout, and responsiveness across de
 ---
 
 🌐 Live Preview
-> (Optional) Add your GitHub Pages link here  
-Example: https://username.github.io/codecademy-website/
+> https://shree0999.github.io/Responsive-Educational-Website/
 
 ---
 
