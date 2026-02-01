@@ -200,8 +200,8 @@ header .search button{
 }
 
 .content .courses .items .top img{
-    width: 120px;
-    height: 120px;
+    width: 75px;
+    height: 100%;
     object-fit: cover;
     border-radius: 8px;   
 }
@@ -773,3 +773,4 @@ footer .copyright{
         width: 100%;
     }
 }
+
